@@ -1,4 +1,5 @@
-# Simulador-de-dado
+# Simulador-de-dado em Python
+
 
 
 
