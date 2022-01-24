@@ -1,6 +1,6 @@
 # Simulador-de-dado
-Programa de simulador de dado em Python
 
+Programa de simulador de dado em Python
 
 
 
